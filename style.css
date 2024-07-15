@@ -153,7 +153,7 @@ header {
   margin-top: -100px;
   margin-left: -100px;
   position: relative;
-  z-index: 1; 
+  z-index: 1;
 }
 .box h2 {
   font-size: 3.5rem;
@@ -194,7 +194,6 @@ header {
   font-size: 1rem;
   font-weight: 400;
   line-height: 26px;
-  max-width: 542px;
   margin-bottom: 100px;
 }
 .facts-box-container {
@@ -314,7 +313,7 @@ header {
   .enjoy-team-col2 img {
     width: 100%;
   }
-  .enjoy-team-col2 .box{
+  .enjoy-team-col2 .box {
     margin-top: 20px;
     margin-left: 0px;
   }
@@ -335,9 +334,6 @@ header {
   }
   .fea-text {
     text-align: center;
-  }
-  .facts > p {
-    margin-left: 200px;
   }
   .facts {
     text-align: center;
@@ -361,7 +357,7 @@ header {
   .enjoy-team-col2 img {
     width: 100%;
   }
-  .enjoy-team-col2 .box{
+  .enjoy-team-col2 .box {
     margin-left: 0px;
   }
 }
